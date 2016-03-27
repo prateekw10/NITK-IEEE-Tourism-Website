@@ -1,0 +1,157 @@
+.neighborhood-guides {
+    background-color:#efefef
+    border-bottom:1px solid #dbdbdb
+}
+.neighborhood-guides h2 {
+    color: #393c3d
+    font-size:24px
+}
+.neighborhood-guides p {
+    font-size: 15px
+    margin-bottom: 13px
+}
+.nav a {
+  color: #FFFFFF;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('https://c1.staticflickr.com/3/2845/11690333393_5c31e1fa85_b.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+   /* unvisited link */
+a:link {
+    color: #000080;
+}
+
+/* visited link */
+a:visited {
+    color: "LightSlateGray";
+}
+
+#nav {
+    line-height:50px;
+    background-color:#1E90FF;
+    height:1070px;
+    width:200px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:1100px;
+    float:right;
+    padding:5px;	 	 
+}
+.jumbotron1 {
+  background-image:url('http://www.uaestylemagazine.com/wp-content/uploads/2014/08/RestaurantDubai.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron1 .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron1 h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+.jumbotron2 {
+  background-image:url('http://img0.gtsstatic.com/wallpapers/e35d4db68815bcfb858825d8fae0b0bf_large.jpeg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron2 .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron2 h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+.jumbotron3 {
+  background-image:url('http://www.expatechodubai.com/wp-content/uploads/2013/04/Beaches-in-Dubai.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron3 .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron3 h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+.jumbotron {
+  background-image:url('https://c1.staticflickr.com/3/2845/11690333393_5c31e1fa85_b.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
